@@ -99,6 +99,12 @@
 			<artifactId>xapi</artifactId>
 			<version>6.0.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>sqljdbc4</artifactId>
+			<version>4.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -304,5 +310,6 @@
 			</build>
 		</profile>
 	</profiles>
+
 
 </project>
