@@ -9,8 +9,8 @@
     <version>6.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>xapi-db-mssql-2012</name>
-    <description>xapi-db-mssql-2012</description>
+    <name>SqlEngine Database Adapter MsSQL 2012</name>
+    <description>XAPI SqlEngine Database Adapter for MsSQL 2012</description>
     <url>https://github.com/xdev-software/xapi-db-mssql-2012</url>
 
     <scm>
